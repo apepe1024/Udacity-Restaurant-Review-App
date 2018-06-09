@@ -1,0 +1,15 @@
+{
+  "name": "udacity-restaurants-reviews-app",
+  "version": "1.0.0",
+  "description": "Udacity Front End Web Dev Nanodegree, Project 7, June 2018.",
+  "main": "./js/main.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alessandro Pepe, github apepe1024",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
